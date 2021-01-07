@@ -1,0 +1,5 @@
+'HomeScreen:
+
+* Showing known cities
+* Showing a list of locations that the user has bookmarked previously.
+* By clicking add button on top right you can add locations by placing a pin on the map.'
